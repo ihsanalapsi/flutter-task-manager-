@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "skills": {
+    "dart-expert": {
+      "source": "personamanagmentlayer/pcl",
+      "sourceType": "github",
+      "computedHash": "51b8de96b1a8c4ecad9be3c65ff2195d77dbc96ac3b8a874615440af81d71324"
+    },
+    "flutter-animations": {
+      "source": "madteacher/mad-agents-skills",
+      "sourceType": "github",
+      "computedHash": "dcd68fd024e5631a841125645a23c9828158cd76505ba6c019c09b828c04f626"
+    },
+    "flutter-architecture": {
+      "source": "madteacher/mad-agents-skills",
+      "sourceType": "github",
+      "computedHash": "e617b1fb5cadbf9ba7b6daa034762a52ac3227f23bba7dab9878c7b18e1ab035"
+    },
+    "flutter-expert": {
+      "source": "jeffallan/claude-skills",
+      "sourceType": "github",
+      "computedHash": "df37f35010c3a373afb7b5dcd0d650d1c2dd69b06dc484b3414935408000054f"
+    },
+    "sleek-design-mobile-apps": {
+      "source": "sleekdotdesign/agent-skills",
+      "sourceType": "github",
+      "computedHash": "344009860c9d6f527b22695696c766cf153a3c90028a51119d08779b530067f0"
+    }
+  }
+}
